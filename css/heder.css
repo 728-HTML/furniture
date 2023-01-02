@@ -34,12 +34,10 @@ text-decoration: underline;
         justify-content: space-around;
         flex: 1;
            }
-           .interaction__menu{
-
-           }
+           
+.menu__info{
+   display: grid;
+   grid-template-columns: 200px 200px;
 }
 
 
-
-
-  
